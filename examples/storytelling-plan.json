@@ -1,0 +1,33 @@
+{
+  "name": "sidequest-storytelling",
+  "display_name": "把自己的故事讲清楚",
+  "confirmed": true,
+  "profile": {
+    "main_quest": "虚构示例：平时忙于工作，希望在日常聊天时更自在地讲述自己的经历。",
+    "motivation": "想把生活小事讲得清楚、有自己的感受，不为演讲比赛或职场绩效。",
+    "interests": ["日常表达", "讲故事"],
+    "boundaries": ["不发布到社交平台", "不要求录音或购买设备", "不保存后续私人经历与练习记录"],
+    "learning_style": "先看一个简短例子，再用自己的话试一次，只提一个最值得改的地方。",
+    "tone": "轻松直接，反馈具体，不给人格标签。",
+    "language": "简体中文",
+    "memory": "session-only"
+  },
+  "rhythm": {
+    "minutes_per_session": 10,
+    "sessions_per_week": 2,
+    "low_energy_minutes": 0,
+    "review_every_sessions": 4
+  },
+  "quests": [
+    {
+      "id": "small-stories",
+      "title": "讲清一件生活小事",
+      "why": "希望日常交流更自在，不想把表达练习变成额外的工作任务。",
+      "baseline": "能描述事情，但常常铺垫太长、说不清重点；具体难点在试用中观察。",
+      "goal": "能用一分钟讲清一件事，以及它为什么让自己在意；不设达标期限。",
+      "sessions_per_week": 2,
+      "first_step": "两分钟看一个三句话的小故事，三分钟选一件不敏感的小事并组织表达，一分钟讲一遍，最后四分钟只改一个不清楚的地方。",
+      "steps": ["试着先说最想让对方记住的一句话", "保留一个具体细节，删去不影响理解的背景", "说清这件事带来的感受，而非堆砌修饰词"]
+    }
+  ]
+}
