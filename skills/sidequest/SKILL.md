@@ -14,6 +14,7 @@ description: 通过对话了解用户的主线、兴趣、起点与时间精力�
 - 已有清楚的偏好与目标：沿用用户给出的信息，只补会影响方案的缺口；不要重跑问卷。
 - 方案已确认，要生成文件：读 [personalization.md](references/personalization.md)，按模板或脚本生成独立 Skill。
 - 已有个人 Skill，要继续、复盘或改方向：优先读取该目录的 `profile.md`、`progress.md` 与 `references/companion.md`。找不到目录时只问位置，不猜测已读过。未生成文件的试用对话，读 [陪伴规则](assets/companion.md)。
+- 用户要求定时提醒或邮件内容：读 [定时与投递规则](assets/delivery.md)，区分可用能力、配置计划和已验证的实际运行；不因普通定制请求自动建立任务。
 
 ## 核心约定
 
