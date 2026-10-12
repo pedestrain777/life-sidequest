@@ -1,0 +1,13 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+!.env.example
+# Real personal profiles, generated skills, and learning history stay local.
+.sidequest/
+private-skills/
+personal-data/
+*.local.json
+dist/
