@@ -1,0 +1,6 @@
+interface:
+  display_name: "人生支线 · Life SideQuest"
+  short_description: "先聊懂你的兴趣与节奏，再共同定制一份能持续调整的专属人生支线 Skill"
+  default_prompt: "用 $sidequest 先和我聊聊我的主线、兴趣和时间精力，再共同确认方向，为我生成专属的人生支线 Skill。"
+policy:
+  allow_implicit_invocation: true
