@@ -1,0 +1,6 @@
+interface:
+  display_name: "把下班后的生活还给自己"
+  short_description: "按已确认的兴趣、起点和共享时间预算，持续陪伴并调整你自己的生活支线"
+  default_prompt: "用 $sidequest-slow-living 按我的个人方案继续一次轻量支线体验，先参考已有反馈。"
+policy:
+  allow_implicit_invocation: true
